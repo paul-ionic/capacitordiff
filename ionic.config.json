@@ -1,0 +1,7 @@
+{
+  "name": "capacitordiff",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
